@@ -1,3 +1,5 @@
 Deploying contracts with the account: 0xF1c93AC02A15C60d47AcD505c599DD1662c28B73
+
 Account balance: 160000000000000000
+
 Token address: 0x268c64aD0D5d75340151f3B91204E756553BBBe5
